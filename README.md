@@ -1,0 +1,2 @@
+# Aprimoramento-de-um-Modelo-de-IA-para-Operacoes-Matematicas-Basicas-
+Este repositório apresenta um trabalho da disciplina Redes Neurais que explora a melhoria da arquitetura de um modelo de aprendizado de máquina para a previsão de operações aritméticas. O projeto compara o desempenho da arquitetura original com uma nova, demonstrando a superioridade desta última através de métricas de erro e visualizações.
